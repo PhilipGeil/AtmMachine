@@ -1,0 +1,20 @@
+{
+  "accounts": [
+    {
+      "account_number": 123456789,
+      "available_amount": 1000000
+    },
+    {
+      "account_number": 223456789,
+      "available_amount": 100000
+    },
+    {
+      "account_number": 323456789,
+      "available_amount": 2000000
+    },
+    {
+      "account_number": 423456789,
+      "available_amount": 1004321
+    }
+  ]
+}

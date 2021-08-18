@@ -1,0 +1,33 @@
+{
+  "cards": [
+    {
+      "card_number": "1234-1234-2345-2345",
+      "account_number": 123456789,
+      "expiration_date": "20-08-2021",
+      "security_numbers": 123,
+      "pincode": 1234,
+      "card_type": "Mastercard"
+    },
+    {
+      "card_number": "2234-1234-2345-2345",
+      "account_number": 223456789,
+      "expiration_date": "20-08-2021",
+      "security_numbers": 123,
+      "pincode": 1234,
+      "card_type": "Dankort"
+    },
+    {
+      "card_number": "3234-1234-2345-2345",
+      "account_number": 323456789,
+      "expiration_date": "20-08-2021",
+      "security_numbers": 123,
+      "pincode": 1234,
+      "card_type": "Visa"
+    },
+    {
+      "card_number": "4234-1234-2345-2345",
+      "expiration_date": "20-08-2021",
+      "card_type": "Coop Kort"
+    }
+  ]
+}

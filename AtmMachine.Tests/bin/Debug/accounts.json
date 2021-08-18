@@ -1,0 +1,8 @@
+{
+  "accounts": [
+    {
+      "account_number": 123456789,
+      "available_amount":  1000000
+    }
+  ]
+}

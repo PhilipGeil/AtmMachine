@@ -1,0 +1,13 @@
+{
+
+  "cards": [
+    {
+      "card_number": "1234-1234-2345-2345",
+      "account_number": 123456789,
+      "expiration_date": "20-08-2021",
+      "security_numbers": 123,
+      "pincode": 1234,
+      "card_type": "Mastercard"
+    }
+  ]
+}
